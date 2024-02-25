@@ -1,159 +1,157 @@
-[
-    {
-        "main" : [
-            {
-                "id": "zigap",
-                "title": "ZIGAP",
-                "skill":["react","next.js","styled-component"],
-                "mainColor":"#1349F8",
-                "date":"2023/12~2024/01"
-            }, {
-                "id": "ktmc",
-                "title": "고려해운항공",
-                "skill":["html","css","jQuery","fullpage.js"],
-                "mainColor":"#2E3192",
-                "date":"2023/11~2024/01"
-            }, {
-                "id": "kgsiw",
-                "title": "KG모빌리티 SIW",
-                "skill":["html","css","jQuery"],
-                "mainColor":"#3F1377",
-                "date":"2023/07~2023/10"
-            }, {
-                "id": "webiztech",
-                "title": "위비즈테크",
-                "skill":["html","css","javascript"],
-                "mainColor":"#235aad",
-                "date":"2023/08~2023/08"
-            }, {
-                "id": "kotten",
-                "title": "코튼시드 - 롯데NFT마켓",
-                "skill":["react","next.js","styled-component"],
-                "mainColor":"#8424ea",
-                "date":"2022/08~2022/03"
-            }, {
-                "id": "smart",
-                "title": "스마트경로당",
-                "skill":["html","css","jQuery","chart.js"],
-                "mainColor":"#61CED6",
-                "date":"2022/12~2023/04"
-            }, {
-                "id": "lgesg",
-                "title": "LG그룹 ESG",
-                "skill":["html","css","jQuery","gsap"],
-                "mainColor":"#bb0841",
-                "date":"2022/12~2023/01"
-            }, {
-                "id": "digital",
-                "title": "디지털헬스산업협회",
-                "skill":["html","css","jQuery"],
-                "mainColor":"#192e76",
-                "date":"2022/10~2022/12"
-            }, {
-                "id": "eyeclear",
-                "title": "종근당 아이클리어",
-                "skill":["react","styled-component"],
-                "mainColor":"#153982",
-                "date":"2021/12~2022/01"
-            }, {
-                "id": "commax",
-                "title": "COMMAX",
-                "skill":["html","css","jQuery","gsap"],
-                "mainColor":"#0057a7",
-                "date":"2021/08~2022/03"
-            }, {
-                "id": "return",
-                "title": "반품마켓",
-                "skill":["html","css","jQuery","jQuery Mobile"],
-                "mainColor":"#7030a0",
-                "date":"2021/06~2021/07"
-            }, {
-                "id": "tawoong",
-                "title": "태웅로직스",
-                "skill":["html","css","jQuery"],
-                "mainColor":"#cc231c",
-                "date":"2019/03~2019/05"
-            }, {
-                "id": "career",
-                "title": "커리업로드",
-                "skill":["react native","styled-component"],
-                "mainColor":"#ff8500",
-                "date":"2022/02~2022/05"
-            }, {
-                "id": "zenaind",
-                "title": "ZENA IND",
-                "skill":["react","react router","styled-component","lottie Animation"],
-                "mainColor":"#ff7700",
-                "date":"2021/12~2022/01"
-            }, {
-                "id": "zenacare",
-                "title": "ZENA CARE",
-                "skill":["react","react router","styled-component"],
-                "mainColor":"#0088ff",
-                "date":"2021/11~2021/12"
-            }, {
-                "id": "koma",
-                "title": "고마바이오텍",
-                "skill":["html","scss","jQuery"],
-                "mainColor":"#00305B",
-                "date":"2021/03~2021/05"
-            }, {
-                "id": "samsung",
-                "title": "삼성엔지니어링",
-                "skill":["html","css","jQuery"],
-                "mainColor":"#0e4194",
-                "date":"2020/06~2020/12"
-            }, {
-                "id": "yonsei",
-                "title": "연세대학교 PROFILE",
-                "skill":["html","css","jQuery"],
-                "mainColor":"#002b5c",
-                "date":"2019/12~2019/12"
-            }, {
-                "id": "hana",
-                "title": "하나카드 소비패턴",
-                "skill":["html","css","jQuery"],
-                "mainColor":"#60efdb",
-                "date":"2020/12~2020/12"
-            }
-        ],
-        "sub" : [
-            {
-                "id": "volkswagen",
-                "title": "폭스바겐 티록 프로모션",
-                "skill":["html","scss","jQuery"],
-                "date":"2020/12~2021/01"
-            },
-            {
-                "id": "miodio",
-                "title": "미오디오",
-                "skill":["html","css","jQuery"],
-                "date":"2020/11~2020/12"
-            },
-            {
-                "id": "ssangyong1",
-                "title": "쌍용자동차 홈페이지",
-                "skill":["html","css","jQuery"],
-                "date":"2020/06~2020/12"
-            },
-            {
-                "id": "ssangyong2",
-                "title": "쌍용자동차 쇼룸",
-                "skill":["html","css","jQuery"],
-                "date":"2020/06~2020/12"
-            },
-            {
-                "id": "cardif",
-                "title": "BNP파리바 카디프생명",
-                "skill":["html","css","jQuery"],
-                "date":"2019/10~"
-            },
-            {
-                "id": "samsungcard",
-                "title": "삼성카드",
-                "skill":["html","css","jQuery"],
-                "date":"2023/03~"
-            }
-        ]
-    }
-]
+{
+    "main" : [
+        {
+            "id": "zigap",
+            "title": "ZIGAP",
+            "skill":["react","next.js","styled-component"],
+            "mainColor":"#1349F8",
+            "date":"2023/12~2024/01"
+        }, {
+            "id": "ktmc",
+            "title": "고려해운항공",
+            "skill":["html","css","jQuery","fullpage.js"],
+            "mainColor":"#2E3192",
+            "date":"2023/11~2024/01"
+        }, {
+            "id": "kgsiw",
+            "title": "KG모빌리티 SIW",
+            "skill":["html","css","jQuery"],
+            "mainColor":"#3F1377",
+            "date":"2023/07~2023/10"
+        }, {
+            "id": "webiztech",
+            "title": "위비즈테크",
+            "skill":["html","css","javascript"],
+            "mainColor":"#235aad",
+            "date":"2023/08~2023/08"
+        }, {
+            "id": "kotten",
+            "title": "코튼시드 - 롯데NFT마켓",
+            "skill":["react","next.js","styled-component"],
+            "mainColor":"#8424ea",
+            "date":"2022/08~2022/03"
+        }, {
+            "id": "smart",
+            "title": "스마트경로당",
+            "skill":["html","css","jQuery","chart.js"],
+            "mainColor":"#61CED6",
+            "date":"2022/12~2023/04"
+        }, {
+            "id": "lgesg",
+            "title": "LG그룹 ESG",
+            "skill":["html","css","jQuery","gsap"],
+            "mainColor":"#bb0841",
+            "date":"2022/12~2023/01"
+        }, {
+            "id": "digital",
+            "title": "디지털헬스산업협회",
+            "skill":["html","css","jQuery"],
+            "mainColor":"#192e76",
+            "date":"2022/10~2022/12"
+        }, {
+            "id": "eyeclear",
+            "title": "종근당 아이클리어",
+            "skill":["react","styled-component"],
+            "mainColor":"#153982",
+            "date":"2021/12~2022/01"
+        }, {
+            "id": "commax",
+            "title": "COMMAX",
+            "skill":["html","css","jQuery","gsap"],
+            "mainColor":"#0057a7",
+            "date":"2021/08~2022/03"
+        }, {
+            "id": "return",
+            "title": "반품마켓",
+            "skill":["html","css","jQuery","jQuery Mobile"],
+            "mainColor":"#7030a0",
+            "date":"2021/06~2021/07"
+        }, {
+            "id": "tawoong",
+            "title": "태웅로직스",
+            "skill":["html","css","jQuery"],
+            "mainColor":"#cc231c",
+            "date":"2019/03~2019/05"
+        }, {
+            "id": "career",
+            "title": "커리업로드",
+            "skill":["react native","styled-component"],
+            "mainColor":"#ff8500",
+            "date":"2022/02~2022/05"
+        }, {
+            "id": "zenaind",
+            "title": "ZENA IND",
+            "skill":["react","react router","styled-component","lottie Animation"],
+            "mainColor":"#ff7700",
+            "date":"2021/12~2022/01"
+        }, {
+            "id": "zenacare",
+            "title": "ZENA CARE",
+            "skill":["react","react router","styled-component"],
+            "mainColor":"#0088ff",
+            "date":"2021/11~2021/12"
+        }, {
+            "id": "koma",
+            "title": "고마바이오텍",
+            "skill":["html","scss","jQuery"],
+            "mainColor":"#00305B",
+            "date":"2021/03~2021/05"
+        }, {
+            "id": "samsung",
+            "title": "삼성엔지니어링",
+            "skill":["html","css","jQuery"],
+            "mainColor":"#0e4194",
+            "date":"2020/06~2020/12"
+        }, {
+            "id": "yonsei",
+            "title": "연세대학교 PROFILE",
+            "skill":["html","css","jQuery"],
+            "mainColor":"#002b5c",
+            "date":"2019/12~2019/12"
+        }, {
+            "id": "hana",
+            "title": "하나카드 소비패턴",
+            "skill":["html","css","jQuery"],
+            "mainColor":"#60efdb",
+            "date":"2020/12~2020/12"
+        }
+    ],
+    "sub" : [
+        {
+            "id": "volkswagen",
+            "title": "폭스바겐 티록 프로모션",
+            "skill":["html","scss","jQuery"],
+            "date":"2020/12~2021/01"
+        },
+        {
+            "id": "miodio",
+            "title": "미오디오",
+            "skill":["html","css","jQuery"],
+            "date":"2020/11~2020/12"
+        },
+        {
+            "id": "ssangyong1",
+            "title": "쌍용자동차 홈페이지",
+            "skill":["html","css","jQuery"],
+            "date":"2020/06~2020/12"
+        },
+        {
+            "id": "ssangyong2",
+            "title": "쌍용자동차 쇼룸",
+            "skill":["html","css","jQuery"],
+            "date":"2020/06~2020/12"
+        },
+        {
+            "id": "cardif",
+            "title": "BNP파리바 카디프생명",
+            "skill":["html","css","jQuery"],
+            "date":"2019/10~"
+        },
+        {
+            "id": "samsungcard",
+            "title": "삼성카드",
+            "skill":["html","css","jQuery"],
+            "date":"2023/03~"
+        }
+    ]
+}

@@ -3,7 +3,7 @@
         {
             "id": "zigap",
             "title": "ZIGAP",
-            "skill":["react","next.js","styled-component"],
+            "skill":["react","next.js","styled-components"],
             "mainColor":"#1349F8",
             "date":"2023/12~2024/01"
         }, {
@@ -27,7 +27,7 @@
         }, {
             "id": "kotten",
             "title": "코튼시드 - 롯데NFT마켓",
-            "skill":["react","next.js","styled-component"],
+            "skill":["react","next.js","styled-components"],
             "mainColor":"#8424ea",
             "date":"2022/08~2022/03"
         }, {
@@ -51,7 +51,7 @@
         }, {
             "id": "eyeclear",
             "title": "종근당 아이클리어",
-            "skill":["react","styled-component"],
+            "skill":["react","styled-components"],
             "mainColor":"#153982",
             "date":"2021/12~2022/01"
         }, {
@@ -75,19 +75,19 @@
         }, {
             "id": "career",
             "title": "커리업로드",
-            "skill":["react native","styled-component"],
+            "skill":["react native","styled-components"],
             "mainColor":"#ff8500",
             "date":"2022/02~2022/05"
         }, {
             "id": "zenaind",
             "title": "ZENA IND",
-            "skill":["react","react router","styled-component","lottie Animation"],
+            "skill":["react","react router","styled-components","lottie Animation"],
             "mainColor":"#ff7700",
             "date":"2021/12~2022/01"
         }, {
             "id": "zenacare",
             "title": "ZENA CARE",
-            "skill":["react","react router","styled-component"],
+            "skill":["react","react router","styled-components"],
             "mainColor":"#0088ff",
             "date":"2021/11~2021/12"
         }, {

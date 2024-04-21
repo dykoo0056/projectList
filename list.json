@@ -1,6 +1,20 @@
 {
     "main" : [
         {
+            "id": "cu",
+            "title": "CU POST",
+            "skill":["html","css","jQuery"],
+            "mainColor":"#1349F8",
+            "date":"2023/12~2024/01"
+        },
+        {
+            "id": "itcareers",
+            "title": "아이티커리어즈",
+            "skill":["html","css","jQuery"],
+            "mainColor":"#1349F8",
+            "date":"2023/12~2024/01"
+        },
+        {
             "id": "zigap",
             "title": "ZIGAP",
             "skill":["responsive","react","next.js","styled-components"],

@@ -5,14 +5,21 @@
             "title": "CU POST",
             "skill":["html","css","jQuery"],
             "mainColor":"#1349F8",
-            "date":"2023/12~2024/01"
+            "date":"2024/03~2024/04"
         },
         {
             "id": "itcareers",
             "title": "아이티커리어즈",
             "skill":["html","css","jQuery"],
             "mainColor":"#1349F8",
-            "date":"2023/12~2024/01"
+            "date":"2024/02~2024/03"
+        },
+        {
+            "id": "SMBC",
+            "title": "SMBC",
+            "skill":["html","css","jQuery"],
+            "mainColor":"#1349F8",
+            "date":"2024/02~2024/03"
         },
         {
             "id": "zigap",

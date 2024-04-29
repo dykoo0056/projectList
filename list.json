@@ -4,21 +4,21 @@
             "id": "cu",
             "title": "CU POST",
             "skill":["html","css","jQuery"],
-            "mainColor":"#1349F8",
+            "mainColor":"#37d243",
             "date":"2024/03~2024/04"
         },
         {
             "id": "itcareers",
             "title": "아이티커리어즈",
             "skill":["html","css","jQuery"],
-            "mainColor":"#1349F8",
+            "mainColor":"#6dbf72",
             "date":"2024/02~2024/03"
         },
         {
             "id": "SMBC",
             "title": "SMBC",
             "skill":["html","css","jQuery"],
-            "mainColor":"#1349F8",
+            "mainColor":"#c4d700",
             "date":"2024/02~2024/03"
         },
         {

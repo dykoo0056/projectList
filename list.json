@@ -139,6 +139,18 @@
     ],
     "sub" : [
         {
+            "id": "easy",
+            "title": "이지차져",
+            "skill":["responsive","html","scss","jQuery"],
+            "date":"2023/11~2024/01"
+        },
+        {
+            "id": "sazago",
+            "title": "사자고",
+            "skill":["html","scss","jQuery"],
+            "date":"2023/02~2023/05"
+        },
+        {
             "id": "volkswagen",
             "title": "폭스바겐 티록 프로모션",
             "skill":["responsive","html","scss","jQuery"],
@@ -173,6 +185,24 @@
             "title": "삼성카드",
             "skill":["responsive","html","css","jQuery"],
             "date":"2023/03~"
+        },
+        {
+            "id": "hsu",
+            "title": "한국외대 컴공학부",
+            "skill":["responsive","html","css","jQuery"],
+            "date":"2021/09~2021/10"
+        },
+        {
+            "id": "homeservice",
+            "title": "SK 홈앤서비스 - 페이지 추가",
+            "skill":["responsive","html","css","jQuery"],
+            "date":"2021/08~2021/08"
+        },
+        {
+            "id": "hy",
+            "title": "한국야쿠르트 hy팩토리 - 페이지 추가",
+            "skill":["responsive","html","css","jQuery"],
+            "date":"2021/03~2021/06"
         }
     ]
 }

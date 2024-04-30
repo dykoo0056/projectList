@@ -30,7 +30,7 @@
             "skill":["responsive","react","next.js","styled-components"],
             "mainColor":"#1349F8",
             "date":"2023/12~2024/01",
-            "pageLink":"#"
+            "pageLink":"https://dyk-zigap.netlify.app/pagemap"
         }, {
             "id": "ktmc",
             "title": "고려해운항공",
@@ -121,14 +121,14 @@
             "skill":["responsive","react","react router","styled-components","lottie Animation"],
             "mainColor":"#ff7700",
             "date":"2021/12~2022/01",
-            "pageLink":"#"
+            "pageLink":"https://dyk-zena-ind.netlify.app"
         }, {
             "id": "zenacare",
             "title": "ZENA CARE",
             "skill":["responsive","react","react router","styled-components"],
             "mainColor":"#0088ff",
             "date":"2021/11~2021/12",
-            "pageLink":"#"
+            "pageLink":"https://dyk-zena-care.netlify.app"
         }, {
             "id": "koma",
             "title": "고마바이오텍",

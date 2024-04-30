@@ -5,136 +5,158 @@
             "title": "CU POST",
             "skill":["html","css","jQuery"],
             "mainColor":"#37d243",
-            "date":"2024/03~2024/04"
+            "date":"2024/03~2024/04",
+            "link":"#"
         },
         {
             "id": "itcareers",
             "title": "아이티커리어즈",
             "skill":["html","css","jQuery"],
             "mainColor":"#6dbf72",
-            "date":"2024/02~2024/03"
+            "date":"2024/02~2024/03",
+            "link":"http://www.itcareers.co.kr/"
         },
         {
             "id": "SMBC",
             "title": "SMBC",
             "skill":["html","css","jQuery"],
             "mainColor":"#c4d700",
-            "date":"2024/02~2024/03"
+            "date":"2024/02~2024/03",
+            "link":"https://www.smbc.co.jp/asia/korea/"
         },
         {
             "id": "zigap",
             "title": "ZIGAP",
             "skill":["responsive","react","next.js","styled-components"],
             "mainColor":"#1349F8",
-            "date":"2023/12~2024/01"
+            "date":"2023/12~2024/01",
+            "link":"#"
         }, {
             "id": "ktmc",
             "title": "고려해운항공",
             "skill":["responsive","html","css","jQuery","fullpage.js"],
             "mainColor":"#2E3192",
-            "date":"2023/11~2024/01"
+            "date":"2023/11~2024/01",
+            "link":"https://file.adup.kr/kmtc/contents/index.html"
         }, {
             "id": "kgsiw",
             "title": "KG모빌리티 SIW",
             "skill":["html","css","jQuery"],
             "mainColor":"#3F1377",
-            "date":"2023/07~2023/10"
+            "date":"2023/07~2023/10",
+            "link":"http://file.adup.kr/kg/contents/index.html"
         }, {
             "id": "webiztech",
             "title": "위비즈테크",
             "skill":["responsive","html","css","javascript"],
             "mainColor":"#235aad",
-            "date":"2023/08~2023/08"
+            "date":"2023/08~2023/08",
+            "link":"http://www.webiztech.co.kr/"
         }, {
             "id": "kotten",
             "title": "코튼시드 - 롯데NFT마켓",
             "skill":["responsive","react","next.js","styled-components"],
             "mainColor":"#8424ea",
-            "date":"2022/08~2022/03"
+            "date":"2022/08~2022/03",
+            "link":"https://dykoo0056-lotte.netlify.app/pagemap"
         }, {
             "id": "smart",
             "title": "스마트경로당",
             "skill":["responsive","html","css","jQuery","chart.js"],
             "mainColor":"#61CED6",
-            "date":"2022/12~2023/04"
+            "date":"2022/12~2023/04",
+            "link":"http://file.adup.kr/smart/contents/admin/index.html"
         }, {
             "id": "lgesg",
             "title": "LG그룹 ESG",
             "skill":["responsive","html","css","jQuery","gsap"],
             "mainColor":"#bb0841",
-            "date":"2022/12~2023/01"
+            "date":"2022/12~2023/01",
+            "link":"https://www.lg.co.kr/esg/strategy"
         }, {
             "id": "digital",
             "title": "디지털헬스산업협회",
             "skill":["responsive","html","css","jQuery"],
             "mainColor":"#192e76",
-            "date":"2022/10~2022/12"
+            "date":"2022/10~2022/12",
+            "link":"http://file.adup.kr/digital/contents/front/index.html"
         }, {
             "id": "eyeclear",
             "title": "종근당 아이클리어",
             "skill":["responsive","react","styled-components"],
             "mainColor":"#153982",
-            "date":"2021/12~2022/01"
+            "date":"2021/12~2022/01",
+            "link":"https://dykoo0056-eyeclear.netlify.app"
         }, {
             "id": "commax",
             "title": "COMMAX",
             "skill":["responsive","html","css","jQuery","gsap"],
             "mainColor":"#0057a7",
-            "date":"2021/08~2022/03"
+            "date":"2021/08~2022/03",
+            "link":"https://www.commax.com/index?lang=ko"
         }, {
             "id": "return",
             "title": "반품마켓",
             "skill":["responsive","html","css","jQuery","jQuery Mobile"],
             "mainColor":"#7030a0",
-            "date":"2021/06~2021/07"
+            "date":"2021/06~2021/07",
+            "link":"http://file.adup.kr/return"
         }, {
             "id": "tawoong",
             "title": "태웅로직스",
             "skill":["responsive","html","css","jQuery"],
             "mainColor":"#cc231c",
-            "date":"2019/03~2019/05"
+            "date":"2019/03~2019/05",
+            "link":"http://file.adup.kr/tawoong/"
         }, {
             "id": "career",
             "title": "커리업로드",
             "skill":["responsive","react native","styled-components"],
             "mainColor":"#ff8500",
-            "date":"2022/02~2022/05"
+            "date":"2022/02~2022/05",
+            "link":"#"
         }, {
             "id": "zenaind",
             "title": "ZENA IND",
             "skill":["responsive","react","react router","styled-components","lottie Animation"],
             "mainColor":"#ff7700",
-            "date":"2021/12~2022/01"
+            "date":"2021/12~2022/01",
+            "link":"#"
         }, {
             "id": "zenacare",
             "title": "ZENA CARE",
             "skill":["responsive","react","react router","styled-components"],
             "mainColor":"#0088ff",
-            "date":"2021/11~2021/12"
+            "date":"2021/11~2021/12",
+            "link":"#"
         }, {
             "id": "koma",
             "title": "고마바이오텍",
             "skill":["responsive","html","scss","jQuery"],
             "mainColor":"#00305B",
-            "date":"2021/03~2021/05"
+            "date":"2021/03~2021/05",
+            "link":"https://komabiotech.co.kr/"
         }, {
             "id": "samsung",
             "title": "삼성엔지니어링",
             "skill":["responsive","html","css","jQuery"],
             "mainColor":"#0e4194",
-            "date":"2020/06~2020/12"
+            "date":"2020/06~2020/12",
+            "link":"http://file.adup.kr/samsungEngineering/page_map.html"
         }, {
             "id": "yonsei",
             "title": "연세대학교 PROFILE",
             "skill":["responsive","html","css","jQuery"],
             "mainColor":"#002b5c",
-            "date":"2019/12~2019/12"
+            "date":"2019/12~2019/12",
+            "link":"http://about.yonsei.ac.kr/eng/"
         }, {
             "id": "hana",
             "title": "하나카드 소비패턴",
             "skill":["responsive","html","css","jQuery"],
             "mainColor":"#60efdb",
-            "date":"2020/12~2020/12"
+            "date":"2020/12~2020/12",
+            "link":"http://file.adup.kr/hana/"
         }
     ],
     "sub" : [
@@ -149,6 +171,12 @@
             "title": "사자고",
             "skill":["html","scss","jQuery"],
             "date":"2023/02~2023/05"
+        },
+        {
+            "id": "ktmec",
+            "title": "KT MEC",
+            "skill":["responsive","html","css","jQuery"],
+            "date":"2021/10~2022/01"
         },
         {
             "id": "volkswagen",

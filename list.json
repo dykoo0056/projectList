@@ -85,7 +85,7 @@
             "title": "종근당 아이클리어",
             "skill":["responsive","react","styled-components"],
             "mainColor":"#153982",
-            "date":"2021/12~2022/01",
+            "date":"2021/06~2021/07",
             "pageLink":"https://dykoo0056-eyeclear.netlify.app"
         }, {
             "id": "commax",
@@ -163,7 +163,7 @@
         {
             "id": "easy",
             "title": "이지차져",
-            "skill":["responsive","html","scss","jQuery"],
+            "skill":["responsive","html","css","jQuery"],
             "date":"2023/11~2024/01"
         },
         {
@@ -198,7 +198,7 @@
         },
         {
             "id": "ssangyong2",
-            "title": "쌍용자동차 쇼룸",
+            "title": "쌍용자동차 쇼룸 - 7종+",
             "skill":["html","css","jQuery"],
             "date":"2020/06~2020/12"
         },
@@ -210,7 +210,7 @@
         },
         {
             "id": "samsungcard",
-            "title": "삼성카드",
+            "title": "삼성카드 - 랜딩페이지 운영 10종+",
             "skill":["responsive","html","css","jQuery"],
             "date":"2023/03~"
         },

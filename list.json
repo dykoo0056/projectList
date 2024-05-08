@@ -161,10 +161,22 @@
     ],
     "sub" : [
         {
+            "id": "spc",
+            "title": "SPC매거진 운영",
+            "skill":["wordpress"],
+            "date":"2024/02~"
+        },
+        {
             "id": "easy",
             "title": "이지차져",
             "skill":["responsive","html","css","jQuery"],
             "date":"2023/11~2024/01"
+        },
+        {
+            "id": "samsungcard",
+            "title": "삼성카드 - 랜딩페이지 운영 10종+",
+            "skill":["responsive","html","css","jQuery"],
+            "date":"2023/03~"
         },
         {
             "id": "sazago",
@@ -179,46 +191,16 @@
             "date":"2021/10~2022/01"
         },
         {
-            "id": "volkswagen",
-            "title": "폭스바겐 티록 프로모션",
-            "skill":["responsive","html","scss","jQuery"],
-            "date":"2020/12~2021/01"
-        },
-        {
-            "id": "miodio",
-            "title": "미오디오",
-            "skill":["responsive","html","css","jQuery"],
-            "date":"2020/11~2020/12"
-        },
-        {
-            "id": "ssangyong1",
-            "title": "쌍용자동차 홈페이지",
-            "skill":["html","css","jQuery"],
-            "date":"2017/07~2017/09"
-        },
-        {
-            "id": "ssangyong2",
-            "title": "쌍용자동차 쇼룸 - 7종+",
-            "skill":["html","css","jQuery"],
-            "date":"2017/04~2018/01"
-        },
-        {
-            "id": "cardif",
-            "title": "BNP파리바 카디프생명",
-            "skill":["responsive","html","css","jQuery"],
-            "date":"2019/10~"
-        },
-        {
-            "id": "samsungcard",
-            "title": "삼성카드 - 랜딩페이지 운영 10종+",
-            "skill":["responsive","html","css","jQuery"],
-            "date":"2023/03~"
-        },
-        {
             "id": "hsu",
             "title": "한국외대 컴공학부",
             "skill":["responsive","html","css","jQuery"],
             "date":"2021/09~2021/10"
+        },
+        {
+            "id": "skyer",
+            "title": "스카이어",
+            "skill":["responsive","html","css","jQuery"],
+            "date":"2021/07~2021/07"
         },
         {
             "id": "homeservice",
@@ -231,6 +213,54 @@
             "title": "한국야쿠르트 hy팩토리 - 페이지 추가",
             "skill":["responsive","html","css","jQuery"],
             "date":"2021/03~2021/06"
+        },
+        {
+            "id": "volkswagen",
+            "title": "폭스바겐 티록 프로모션",
+            "skill":["responsive","html","scss","jQuery"],
+            "date":"2020/12~2021/01"
+        },
+        {
+            "id": "miodio",
+            "title": "미오디오",
+            "skill":["responsive","html","css","jQuery"],
+            "date":"2020/11~2020/12"
+        },
+        {
+            "id": "hyundai",
+            "title": "현대큐밍 운영",
+            "skill":["responsive","html","css","jQuery"],
+            "date":"2020"
+        },
+        {
+            "id": "cardif",
+            "title": "BNP파리바 카디프생명 운영",
+            "skill":["responsive","html","css","jQuery"],
+            "date":"2019/10~"
+        },
+        {
+            "id": "emforce",
+            "title": "엠포스 데이터랩",
+            "skill":["wordpress"],
+            "date":"2019/05~2019/05"
+        },
+        {
+            "id": "emforce2",
+            "title": "엠포스 SNS MEDIA",
+            "skill":["wordpress"],
+            "date":"2019/03~2019/03"
+        },
+        {
+            "id": "ssangyong1",
+            "title": "쌍용자동차 홈페이지",
+            "skill":["html","css","jQuery"],
+            "date":"2017/07~2017/09"
+        },
+        {
+            "id": "ssangyong2",
+            "title": "쌍용자동차 쇼룸 - 7종+",
+            "skill":["html","css","jQuery"],
+            "date":"2017/04~2018/01"
         }
     ]
 }

@@ -27,7 +27,7 @@
         {
             "id": "zigap",
             "title": "ZIGAP",
-            "skill":["responsive","react","next.js","styled-components"],
+            "skill":["responsive","react","next.js","styled-components","skeleton UI","darkmode"],
             "mainColor":"#1349F8",
             "date":"2023/12~2024/01",
             "pageLink":"https://dyk-zigap.netlify.app/pagemap"
@@ -55,7 +55,7 @@
         }, {
             "id": "kotten",
             "title": "코튼시드 - 롯데NFT마켓",
-            "skill":["responsive","react","next.js","styled-components"],
+            "skill":["responsive","react","next.js","styled-components","skeleton UI"],
             "mainColor":"#8424ea",
             "date":"2022/08~2022/03",
             "pageLink":"https://dykoo0056-lotte.netlify.app/pagemap"

@@ -59,7 +59,7 @@
         {
             "id": "zigap",
             "title": "ZIGAP",
-            "skill":["responsive","react","next.js","styled-components","skeleton UI","darkmode"],
+            "skill":["responsive","react","next.js","styled-components","skeleton UI","darkmode","framer-motion"],
             "mainColor":"#1349F8",
             "date":"2023/12~2024/01",
             "pageLink":"https://dyk-zigap.netlify.app/pagemap"

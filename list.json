@@ -95,7 +95,7 @@
             "title": "CU POST - 기능개선 및 리뉴얼",
             "skill":["html","css","jQuery"],
             "mainColor":"#37d243",
-            "date":"2024/03~2024/04",
+            "date":"2024/03~2024/05",
             "pageLink":"http://cupost.ahin07.com/sitemap.html",
             "info":["PC/Mobile 적응형 홈페이지","기존 가이드 준수한 예약시스템 기능개선 페이지 추가 및 전체 리뉴얼"]
         },
@@ -255,7 +255,7 @@
             "id": "miodio",
             "title": "미오디오",
             "skill":["responsive","html","css","jQuery"],
-            "date":"2020/11~2020/12"
+            "date":"2019/05~2019/10"
         },
         {
             "id": "hyundai",

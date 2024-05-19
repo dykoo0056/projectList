@@ -7,7 +7,7 @@
             "mainColor":"#0057a7",
             "date":"2021/08~2022/03",
             "pageLink":"https://www.commax.com/index?lang=ko",
-            "info":["gasp &amp; scrollTrigger &amp; skrollr 활용 인터랙션 구현, select &amp; popup 컴포넌트 관리"]
+            "info":["gasp &amp; scrollTrigger &amp; skrollr 활용 인터랙션 구현", "select &amp; popup 컴포넌트 관리"]
         },
         {
             "id": "kotten",
@@ -16,7 +16,7 @@
             "mainColor":"#8424ea",
             "date":"2022/08~2022/03",
             "pageLink":"https://dykoo0056-lotte.netlify.app/pagemap",
-            "info":["next.js 프로젝트 세팅, react 컴포넌트 퍼블리싱, Skeleton UI 구현, Toast Popup &amp; Modal Custom 구현 및 컴포넌트 관리"]
+            "info":["next.js 프로젝트 세팅", "react 컴포넌트 퍼블리싱", "Skeleton UI 구현", "Toast Popup &amp; Modal Custom 구현 및 컴포넌트 관리"]
         },
         {
             "id": "lgesg",
@@ -25,7 +25,7 @@
             "mainColor":"#bb0841",
             "date":"2022/12~2023/01",
             "pageLink":"https://www.lg.co.kr/esg/strategy",
-            "info":["ESG 메뉴 전체 페이지 국/영문 제작, gasp &amp; scrollTrigger 활용 인터랙션 구현"]
+            "info":["ESG 메뉴 전체 페이지 국/영문 제작", "gasp &amp; scrollTrigger 활용 인터랙션 구현"]
         },
         {
             "id": "tawoong",
@@ -34,7 +34,7 @@
             "mainColor":"#cc231c",
             "date":"2019/03~2019/05",
             "pageLink":"http://file.adup.kr/tawoong/",
-            "info":["국/중/영문 페이지 제작, 채용 홈페이지 제작(http://www.e-tgl.com/homepage/recruit/index.do)"]
+            "info":["반응형 홈페이지","국/중/영문 페이지 제작", "채용 홈페이지 제작(http://www.e-tgl.com/homepage/recruit/index.do)"]
         },
         {
             "id": "itcareers",
@@ -43,7 +43,7 @@
             "mainColor":"#6dbf72",
             "date":"2024/02~2024/03",
             "pageLink":"http://www.itcareers.co.kr/",
-            "info":["gsap &amp; scrollTrigger 활용 인터랙션 구현, 회사소식 fetch &amp; json 활용하여 관리 용이하게 구현"]
+            "info":["gsap &amp; scrollTrigger 활용 인터랙션 구현", "회사소식 fetch &amp; json 활용하여 관리 용이하게 구현"]
         },
         {
             "id": "yonsei",
@@ -52,7 +52,7 @@
             "mainColor":"#002b5c",
             "date":"2019/12~2019/12",
             "pageLink":"http://about.yonsei.ac.kr/eng/",
-            "info":["국/영문 페이지 제작"]
+            "info":["반응형 홈페이지","국/영문 페이지 제작"]
         },
         {
             "id": "zenaind",
@@ -61,7 +61,7 @@
             "mainColor":"#ff7700",
             "date":"2021/12~2022/01",
             "pageLink":"https://dyk-zena-ind.netlify.app",
-            "info":["react.js 프로젝트 세팅, react 컴포넌트 퍼블리싱, react-router 페이지 관리, lottie Animation 활용 인터랙션 구현"]
+            "info":["react.js 프로젝트 세팅", "react 컴포넌트 퍼블리싱", "react-router 페이지 관리", "lottie Animation 활용 인터랙션 구현"]
         },
         {
             "id": "zigap",
@@ -70,7 +70,7 @@
             "mainColor":"#1349F8",
             "date":"2023/12~2024/01",
             "pageLink":"https://dyk-zigap.netlify.app/pagemap",
-            "info":["next.js 프로젝트 세팅, react 컴포넌트 퍼블리싱, Skeleton UI 구현, ThemeProvider 활용 Light/Dark Mode 구현, Styled-components, 객체로 요소별 Theme 관리, Framer-motion 활용 Modal 구현 및 컴포넌트 관리"]
+            "info":["next.js 프로젝트 세팅", "react 컴포넌트 퍼블리싱", "Skeleton UI 구현", "ThemeProvider 활용 Light/Dark Mode 구현", "Styled-components, 객체로 요소별 Theme 관리, Framer-motion 활용 Modal 구현 및 컴포넌트 관리"]
         },
         {
             "id": "koma",
@@ -79,7 +79,7 @@
             "mainColor":"#00305B",
             "date":"2021/03~2021/05",
             "pageLink":"https://komabiotech.co.kr/",
-            "info":["반응형 홈페이지, scss 활용, @media print 활용 규격에 맞는 사이즈 설정, Bootstrap Back office 제작"]
+            "info":["반응형 홈페이지", "scss 활용", "@media print 활용 규격에 맞는 사이즈 설정", "Bootstrap Back office 제작"]
         },
         {
             "id": "career",
@@ -88,7 +88,7 @@
             "mainColor":"#ff8500",
             "date":"2022/02~2022/05",
             "pageLink":"https://dyk-career.netlify.app/career.html",
-            "info":["window 개발환경 구성(JAVA, Android Studio), 에뮬레이터 및 실제 디바이스 테스트, Xcode ios Platform module 크로스 체크, react native 기반 프로젝트 구성, 재사용성 고려한 컴포넌트 구성 및 페이지 퍼블리싱, styled-components, slack 협업툴 활용"]
+            "info":["window 개발환경 구성(JAVA, Android Studio)", "에뮬레이터 및 실제 디바이스 테스트", "Xcode ios Platform module 크로스 체크", "react native 기반 프로젝트 구성", "재사용성 고려한 컴포넌트 구성 및 페이지 퍼블리싱", "styled-components", "slack 협업툴 활용"]
         },
         {
             "id": "cu",
@@ -106,7 +106,7 @@
             "mainColor":"#c4d700",
             "date":"2024/02~2024/03",
             "pageLink":"https://www.smbc.co.jp/asia/korea/",
-            "info":["글로벌 가이드 준수한 페이지 제작, 국/일/영문 페이지 제작, 클라이언트사 방문 작업"]
+            "info":["글로벌 가이드 준수한 페이지 제작", "국/일/영문 페이지 제작", "클라이언트사 방문 작업"]
         },
         {
             "id": "ktmc",
@@ -131,7 +131,7 @@
             "mainColor":"#235aad",
             "date":"2023/08~2023/08",
             "pageLink":"http://www.webiztech.co.kr/",
-            "info":["gsap &amp; scrollTrigger 활용 인터랙션 구현, 회사소식 json 활용하여 관리 용이하게 구현"]
+            "info":["gsap &amp; scrollTrigger 활용 인터랙션 구현", "회사소식 json 활용하여 관리 용이하게 구현"]
         }, {
             "id": "smart",
             "title": "스마트경로당",
@@ -155,7 +155,7 @@
             "mainColor":"#153982",
             "date":"2021/06~2021/07",
             "pageLink":"https://dykoo0056-eyeclear.netlify.app",
-            "info":["react.js 프로젝트 세팅, react 컴포넌트 퍼블리싱, 사격게임 javascript 구현, Modal 컴포넌트 관리", "채널별 공유기능 구현"]
+            "info":["react.js 프로젝트 세팅", "react 컴포넌트 퍼블리싱", "사격게임 javascript 구현", "Modal 컴포넌트 관리", "채널별 공유기능 구현"]
         }, {
             "id": "return",
             "title": "반품마켓",
@@ -171,7 +171,7 @@
             "mainColor":"#0088ff",
             "date":"2021/11~2021/12",
             "pageLink":"https://dyk-zena-care.netlify.app",
-            "info":["react.js 프로젝트 세팅, react 컴포넌트 퍼블리싱, react-router 페이지 관리"]
+            "info":["react.js 프로젝트 세팅", "react 컴포넌트 퍼블리싱", "react-router 페이지 관리"]
         }, {
             "id": "samsung",
             "title": "삼성엔지니어링",
@@ -179,7 +179,7 @@
             "mainColor":"#0e4194",
             "date":"2020/06~2020/12",
             "pageLink":"http://file.adup.kr/samsungEngineering/page_map.html",
-            "info":["반응형 홈페이지, 국/영문 페이지 제작"]
+            "info":["반응형 홈페이지", "국/영문 페이지 제작"]
         }, {
             "id": "hana",
             "title": "하나카드 소비패턴",

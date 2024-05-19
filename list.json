@@ -7,7 +7,7 @@
             "mainColor":"#0057a7",
             "date":"2021/08~2022/03",
             "pageLink":"https://www.commax.com/index?lang=ko",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         },
         {
             "id": "kotten",
@@ -16,7 +16,7 @@
             "mainColor":"#8424ea",
             "date":"2022/08~2022/03",
             "pageLink":"https://dykoo0056-lotte.netlify.app/pagemap",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         },
         {
             "id": "lgesg",
@@ -25,7 +25,7 @@
             "mainColor":"#bb0841",
             "date":"2022/12~2023/01",
             "pageLink":"https://www.lg.co.kr/esg/strategy",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         },
         {
             "id": "tawoong",
@@ -34,7 +34,7 @@
             "mainColor":"#cc231c",
             "date":"2019/03~2019/05",
             "pageLink":"http://file.adup.kr/tawoong/",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         },
         {
             "id": "itcareers",
@@ -43,7 +43,7 @@
             "mainColor":"#6dbf72",
             "date":"2024/02~2024/03",
             "pageLink":"http://www.itcareers.co.kr/",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         },
         {
             "id": "yonsei",
@@ -52,7 +52,7 @@
             "mainColor":"#002b5c",
             "date":"2019/12~2019/12",
             "pageLink":"http://about.yonsei.ac.kr/eng/",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         },
         {
             "id": "zenaind",
@@ -61,7 +61,7 @@
             "mainColor":"#ff7700",
             "date":"2021/12~2022/01",
             "pageLink":"https://dyk-zena-ind.netlify.app",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         },
         {
             "id": "zigap",
@@ -70,7 +70,7 @@
             "mainColor":"#1349F8",
             "date":"2023/12~2024/01",
             "pageLink":"https://dyk-zigap.netlify.app/pagemap",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         },
         {
             "id": "koma",
@@ -79,7 +79,7 @@
             "mainColor":"#00305B",
             "date":"2021/03~2021/05",
             "pageLink":"https://komabiotech.co.kr/",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         },
         {
             "id": "career",
@@ -88,7 +88,7 @@
             "mainColor":"#ff8500",
             "date":"2022/02~2022/05",
             "pageLink":"https://dyk-career.netlify.app/career.html",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         },
         {
             "id": "cu",
@@ -97,7 +97,7 @@
             "mainColor":"#37d243",
             "date":"2024/03~2024/04",
             "pageLink":"http://cupost.ahin07.com/sitemap.html",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         },
         {
             "id": "SMBC",
@@ -106,7 +106,7 @@
             "mainColor":"#c4d700",
             "date":"2024/02~2024/03",
             "pageLink":"https://www.smbc.co.jp/asia/korea/",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         },
         {
             "id": "ktmc",
@@ -115,7 +115,7 @@
             "mainColor":"#2E3192",
             "date":"2023/11~2024/01",
             "pageLink":"http://file.adup.kr/kmtc/contents/index.html",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         }, {
             "id": "kgsiw",
             "title": "KG모빌리티 SIW",
@@ -123,7 +123,7 @@
             "mainColor":"#3F1377",
             "date":"2023/07~2023/10",
             "pageLink":"http://file.adup.kr/kg/contents/index.html",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         }, {
             "id": "webiztech",
             "title": "위비즈테크",
@@ -131,7 +131,7 @@
             "mainColor":"#235aad",
             "date":"2023/08~2023/08",
             "pageLink":"http://www.webiztech.co.kr/",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         }, {
             "id": "smart",
             "title": "스마트경로당",
@@ -139,7 +139,7 @@
             "mainColor":"#61CED6",
             "date":"2022/12~2023/04",
             "pageLink":"http://file.adup.kr/smart/sitemap.html",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         }, {
             "id": "digital",
             "title": "디지털헬스산업협회",
@@ -147,7 +147,7 @@
             "mainColor":"#192e76",
             "date":"2022/10~2022/12",
             "pageLink":"http://file.adup.kr/digital/contents/front/index.html",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         }, {
             "id": "eyeclear",
             "title": "종근당 아이클리어",
@@ -155,7 +155,7 @@
             "mainColor":"#153982",
             "date":"2021/06~2021/07",
             "pageLink":"https://dykoo0056-eyeclear.netlify.app",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         }, {
             "id": "return",
             "title": "반품마켓",
@@ -163,7 +163,7 @@
             "mainColor":"#7030a0",
             "date":"2021/06~2021/07",
             "pageLink":"http://file.adup.kr/return",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         }, {
             "id": "zenacare",
             "title": "ZENA CARE",
@@ -171,7 +171,7 @@
             "mainColor":"#0088ff",
             "date":"2021/11~2021/12",
             "pageLink":"https://dyk-zena-care.netlify.app",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         }, {
             "id": "samsung",
             "title": "삼성엔지니어링",
@@ -179,7 +179,7 @@
             "mainColor":"#0e4194",
             "date":"2020/06~2020/12",
             "pageLink":"http://file.adup.kr/samsungEngineering/page_map.html",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         }, {
             "id": "hana",
             "title": "하나카드 소비패턴",
@@ -187,7 +187,7 @@
             "mainColor":"#60efdb",
             "date":"2020/12~2020/12",
             "pageLink":"http://file.adup.kr/hana/",
-            "info":"경력기술서 내용"
+            "info":["경력기술서 내용","경력기술서 내용"]
         }
     ],
     "sub" : [

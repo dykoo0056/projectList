@@ -16,7 +16,7 @@
             "mainColor":"#8424ea",
             "date":"2022/08~2022/03",
             "pageLink":"https://dykoo0056-lotte.netlify.app/pagemap",
-            "info":["next.js 프로젝트 세팅", "react 컴포넌트 퍼블리싱", "Skeleton UI 구현", "Toast Popup &amp; Modal Custom 구현 및 컴포넌트 관리"]
+            "info":["next.js 프로젝트 세팅", "재사용성 고려한 react 컴포넌트 퍼블리싱", "Skeleton UI 구현", "Toast Popup &amp; Modal Custom 구현 및 컴포넌트 관리"]
         },
         {
             "id": "lgesg",
@@ -61,7 +61,7 @@
             "mainColor":"#ff7700",
             "date":"2021/12~2022/01",
             "pageLink":"https://dyk-zena-ind.netlify.app",
-            "info":["react.js 프로젝트 세팅", "react 컴포넌트 퍼블리싱", "react-router 페이지 관리", "lottie Animation 활용 인터랙션 구현"]
+            "info":["react.js 프로젝트 세팅", "재사용성 고려한 react 컴포넌트 퍼블리싱", "react-router 페이지 관리", "lottie Animation 활용 인터랙션 구현"]
         },
         {
             "id": "zigap",
@@ -70,7 +70,7 @@
             "mainColor":"#1349F8",
             "date":"2023/12~2024/01",
             "pageLink":"https://dyk-zigap.netlify.app/pagemap",
-            "info":["next.js 프로젝트 세팅", "react 컴포넌트 퍼블리싱", "Skeleton UI 구현", "ThemeProvider 활용 Light/Dark Mode 구현", "Styled-components, 객체로 요소별 Theme 관리, Framer-motion 활용 Modal 구현 및 컴포넌트 관리"]
+            "info":["next.js 프로젝트 세팅", "재사용성 고려한 react 컴포넌트 퍼블리싱", "Skeleton UI 구현", "ThemeProvider 활용 Light/Dark Mode 구현", "Styled-components, 객체로 요소별 Theme 관리, Framer-motion 활용 Modal 구현 및 컴포넌트 관리"]
         },
         {
             "id": "koma",
@@ -97,7 +97,7 @@
             "mainColor":"#37d243",
             "date":"2024/03~2024/04",
             "pageLink":"http://cupost.ahin07.com/sitemap.html",
-            "info":["PC/Mobile 적응형 홈페이지","기존 가이드 준수한 페이지 추가 및 리뉴얼"]
+            "info":["PC/Mobile 적응형 홈페이지","기존 가이드 준수한 예약시스템 기능개선 페이지 추가 및 전체 리뉴얼"]
         },
         {
             "id": "SMBC",
@@ -123,7 +123,7 @@
             "mainColor":"#3F1377",
             "date":"2023/07~2023/10",
             "pageLink":"http://file.adup.kr/kg/contents/index.html",
-            "info":["정비시스템 홈페이지 제작","Bootstrap Back office 제작"]
+            "info":["정비시스템 홈페이지 제작","공통 레이아웃(header, footer, lnb) include 관리","Bootstrap Back office 제작"]
         }, {
             "id": "webiztech",
             "title": "위비즈테크",
@@ -155,7 +155,7 @@
             "mainColor":"#153982",
             "date":"2021/06~2021/07",
             "pageLink":"https://dykoo0056-eyeclear.netlify.app",
-            "info":["react.js 프로젝트 세팅", "react 컴포넌트 퍼블리싱", "사격게임 javascript 구현", "Modal 컴포넌트 관리", "채널별 공유기능 구현"]
+            "info":["react.js 프로젝트 세팅", "재사용성 고려한 react 컴포넌트 퍼블리싱", "사격게임 javascript 구현", "Modal 컴포넌트 관리", "채널별 공유기능 구현"]
         }, {
             "id": "return",
             "title": "반품마켓",
@@ -163,7 +163,7 @@
             "mainColor":"#7030a0",
             "date":"2021/06~2021/07",
             "pageLink":"http://file.adup.kr/return",
-            "info":["jQuery Mobile 활용 하이브리드앱 제작", "Bootstrap Back office 제작"]
+            "info":["jQuery Mobile 기반 프로젝트 구성 및 페이지 퍼블리싱", "Bootstrap Back office 제작"]
         }, {
             "id": "zenacare",
             "title": "ZENA CARE",
@@ -171,7 +171,7 @@
             "mainColor":"#0088ff",
             "date":"2021/11~2021/12",
             "pageLink":"https://dyk-zena-care.netlify.app",
-            "info":["react.js 프로젝트 세팅", "react 컴포넌트 퍼블리싱", "react-router 페이지 관리"]
+            "info":["react.js 프로젝트 세팅", "재사용성 고려한 react 컴포넌트 퍼블리싱", "react-router 페이지 관리"]
         }, {
             "id": "samsung",
             "title": "삼성엔지니어링",

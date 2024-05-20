@@ -39,7 +39,7 @@
         {
             "id": "itcareers",
             "title": "아이티커리어즈",
-            "skill":["html","css","jQuery"],
+            "skill":["반응형웹","html","css","jQuery"],
             "mainColor":"#6dbf72",
             "date":"2024/02~2024/03",
             "pageLink":"http://www.itcareers.co.kr/",
@@ -93,7 +93,7 @@
         {
             "id": "cu",
             "title": "CU POST - 기능개선 및 리뉴얼",
-            "skill":["html","css","jQuery"],
+            "skill":["적응형웹","html","css","jQuery"],
             "mainColor":"#37d243",
             "date":"2024/03~2024/05",
             "pageLink":"http://cupost.ahin07.com/sitemap.html",
@@ -102,7 +102,7 @@
         {
             "id": "SMBC",
             "title": "SMBC",
-            "skill":["html","css","jQuery"],
+            "skill":["반응형웹","html","css","jQuery"],
             "mainColor":"#c4d700",
             "date":"2024/02~2024/03",
             "pageLink":"https://www.smbc.co.jp/asia/korea/",

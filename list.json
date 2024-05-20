@@ -3,7 +3,7 @@
         {
             "id": "commax",
             "title": "COMMAX",
-            "skill":["responsive","html","css","jQuery","gsap"],
+            "skill":["반응형웹","html","css","jQuery","gsap"],
             "mainColor":"#0057a7",
             "date":"2021/08~2022/03",
             "pageLink":"https://www.commax.com/index?lang=ko",
@@ -12,7 +12,7 @@
         {
             "id": "kotten",
             "title": "코튼시드 - 롯데NFT마켓",
-            "skill":["responsive","react","next.js","styled-components","skeleton UI"],
+            "skill":["반응형웹","react","next.js","styled-components","skeleton UI"],
             "mainColor":"#8424ea",
             "date":"2022/08~2022/03",
             "pageLink":"https://dykoo0056-lotte.netlify.app/pagemap",
@@ -21,7 +21,7 @@
         {
             "id": "lgesg",
             "title": "LG그룹 ESG",
-            "skill":["responsive","html","css","jQuery","gsap"],
+            "skill":["반응형웹","html","css","jQuery","gsap"],
             "mainColor":"#bb0841",
             "date":"2022/12~2023/01",
             "pageLink":"https://www.lg.co.kr/esg/strategy",
@@ -30,7 +30,7 @@
         {
             "id": "tawoong",
             "title": "태웅로직스",
-            "skill":["responsive","html","css","jQuery"],
+            "skill":["반응형웹","html","css","jQuery"],
             "mainColor":"#cc231c",
             "date":"2019/05~2019/09",
             "pageLink":"http://file.adup.kr/tawoong/",
@@ -48,7 +48,7 @@
         {
             "id": "yonsei",
             "title": "연세대학교 PROFILE",
-            "skill":["responsive","html","css","jQuery"],
+            "skill":["반응형웹","html","css","jQuery"],
             "mainColor":"#002b5c",
             "date":"2019/12~2019/12",
             "pageLink":"http://about.yonsei.ac.kr/eng/",
@@ -57,7 +57,7 @@
         {
             "id": "zenaind",
             "title": "ZENA IND",
-            "skill":["responsive","react","react router","styled-components","lottie Animation"],
+            "skill":["반응형웹","react","react router","styled-components","lottie Animation"],
             "mainColor":"#ff7700",
             "date":"2021/12~2022/01",
             "pageLink":"https://dyk-zena-ind.netlify.app",
@@ -66,7 +66,7 @@
         {
             "id": "zigap",
             "title": "ZIGAP",
-            "skill":["responsive","react","next.js","styled-components","skeleton UI","darkmode","framer-motion"],
+            "skill":["반응형웹","react","next.js","styled-components","skeleton UI","darkmode","framer-motion"],
             "mainColor":"#1349F8",
             "date":"2023/12~2024/01",
             "pageLink":"https://dyk-zigap.netlify.app/pagemap",
@@ -75,7 +75,7 @@
         {
             "id": "koma",
             "title": "고마바이오텍",
-            "skill":["responsive","html","scss","jQuery"],
+            "skill":["반응형웹","html","scss","jQuery"],
             "mainColor":"#00305B",
             "date":"2021/03~2021/05",
             "pageLink":"https://komabiotech.co.kr/",
@@ -84,7 +84,7 @@
         {
             "id": "career",
             "title": "커리업로드",
-            "skill":["responsive","react native","styled-components"],
+            "skill":["반응형웹","react native","styled-components"],
             "mainColor":"#ff8500",
             "date":"2022/02~2022/05",
             "pageLink":"https://dyk-career.netlify.app/career.html",
@@ -111,7 +111,7 @@
         {
             "id": "ktmc",
             "title": "고려해운항공",
-            "skill":["responsive","html","css","jQuery","fullpage.js"],
+            "skill":["반응형웹","html","css","jQuery","fullpage.js"],
             "mainColor":"#2E3192",
             "date":"2023/11~2024/01",
             "pageLink":"http://file.adup.kr/kmtc/contents/index.html",
@@ -127,7 +127,7 @@
         }, {
             "id": "webiztech",
             "title": "위비즈테크",
-            "skill":["responsive","html","css","javascript"],
+            "skill":["반응형웹","html","css","javascript"],
             "mainColor":"#235aad",
             "date":"2023/08~2023/08",
             "pageLink":"http://www.webiztech.co.kr/",
@@ -135,7 +135,7 @@
         }, {
             "id": "smart",
             "title": "스마트경로당",
-            "skill":["responsive","html","css","jQuery","chart.js"],
+            "skill":["반응형웹","html","css","jQuery","chart.js"],
             "mainColor":"#61CED6",
             "date":"2022/12~2023/04",
             "pageLink":"http://file.adup.kr/smart/sitemap.html",
@@ -143,7 +143,7 @@
         }, {
             "id": "digital",
             "title": "디지털헬스산업협회",
-            "skill":["responsive","html","css","jQuery"],
+            "skill":["반응형웹","html","css","jQuery"],
             "mainColor":"#192e76",
             "date":"2022/10~2022/12",
             "pageLink":"http://file.adup.kr/digital/contents/front/index.html",
@@ -151,7 +151,7 @@
         }, {
             "id": "eyeclear",
             "title": "종근당 아이클리어",
-            "skill":["responsive","react","styled-components"],
+            "skill":["반응형웹","react","styled-components"],
             "mainColor":"#153982",
             "date":"2021/06~2021/07",
             "pageLink":"https://dykoo0056-eyeclear.netlify.app",
@@ -159,7 +159,7 @@
         }, {
             "id": "return",
             "title": "반품마켓",
-            "skill":["responsive","html","css","jQuery","jQuery Mobile"],
+            "skill":["반응형웹","html","css","jQuery","jQuery Mobile"],
             "mainColor":"#7030a0",
             "date":"2021/06~2021/07",
             "pageLink":"http://file.adup.kr/return",
@@ -167,7 +167,7 @@
         }, {
             "id": "zenacare",
             "title": "ZENA CARE",
-            "skill":["responsive","react","react router","styled-components"],
+            "skill":["반응형웹","react","react router","styled-components"],
             "mainColor":"#0088ff",
             "date":"2021/11~2021/12",
             "pageLink":"https://dyk-zena-care.netlify.app",
@@ -175,7 +175,7 @@
         }, {
             "id": "samsung",
             "title": "삼성엔지니어링",
-            "skill":["responsive","html","css","jQuery"],
+            "skill":["반응형웹","html","css","jQuery"],
             "mainColor":"#0e4194",
             "date":"2020/06~2020/12",
             "pageLink":"http://file.adup.kr/samsungEngineering/page_map.html",
@@ -183,7 +183,7 @@
         }, {
             "id": "hana",
             "title": "하나카드 소비패턴",
-            "skill":["responsive","html","css","jQuery"],
+            "skill":["반응형웹","html","css","jQuery"],
             "mainColor":"#60efdb",
             "date":"2020/12~2020/12",
             "pageLink":"http://file.adup.kr/hana/",
@@ -200,73 +200,73 @@
         {
             "id": "easy",
             "title": "이지차져",
-            "skill":["responsive","html","css","jQuery"],
+            "skill":["반응형웹","html","css","jQuery"],
             "date":"2023/11~2024/01"
         },
         {
             "id": "samsungcard",
             "title": "삼성카드 - 랜딩페이지 운영 10종+",
-            "skill":["responsive","html","css","jQuery"],
+            "skill":["반응형웹","html","css","jQuery"],
             "date":"2023/03~"
         },
         {
             "id": "sazago",
             "title": "사자고",
-            "skill":["html","css","jQuery"],
+            "skill":["적응형웹","html","css","jQuery"],
             "date":"2023/02~2023/05"
         },
         {
             "id": "ktmec",
             "title": "KT MEC",
-            "skill":["responsive","html","css","jQuery"],
+            "skill":["반응형웹","html","css","jQuery"],
             "date":"2021/10~2022/01"
         },
         {
             "id": "hsu",
             "title": "한국외대 컴공학부",
-            "skill":["responsive","html","css","jQuery"],
+            "skill":["반응형웹","html","css","jQuery","자체CMS"],
             "date":"2021/09~2021/10"
         },
         {
             "id": "skyer",
             "title": "스카이어",
-            "skill":["responsive","html","css","jQuery"],
+            "skill":["반응형웹","html","css","jQuery"],
             "date":"2021/07~2021/07"
         },
         {
             "id": "homeservice",
             "title": "SK 홈앤서비스 - 페이지 추가",
-            "skill":["responsive","html","css","jQuery"],
+            "skill":["반응형웹","html","css","jQuery"],
             "date":"2021/08~2021/08"
         },
         {
             "id": "hy",
             "title": "한국야쿠르트 hy팩토리 - 페이지 추가",
-            "skill":["responsive","html","css","jQuery"],
+            "skill":["반응형웹","html","css","jQuery"],
             "date":"2021/03~2021/06"
         },
         {
             "id": "volkswagen",
             "title": "폭스바겐 티록 프로모션",
-            "skill":["responsive","html","scss","jQuery"],
+            "skill":["반응형웹","html","scss","jQuery"],
             "date":"2020/12~2021/01"
         },
         {
             "id": "miodio",
             "title": "미오디오",
-            "skill":["responsive","html","css","jQuery"],
+            "skill":["html","css","jQuery"],
             "date":"2019/05~2019/10"
         },
         {
             "id": "hyundai",
             "title": "현대큐밍 운영",
-            "skill":["responsive","html","css","jQuery"],
+            "skill":["반응형웹","html","css","jQuery"],
             "date":"2020"
         },
         {
             "id": "cardif",
             "title": "BNP파리바 카디프생명 운영",
-            "skill":["responsive","html","css","jQuery","자체CMS"],
+            "skill":["반응형웹","html","css","jQuery","자체CMS"],
             "date":"2019/10~"
         },
         {
@@ -284,13 +284,13 @@
         {
             "id": "ssangyong1",
             "title": "쌍용자동차 홈페이지",
-            "skill":["html","css","jQuery"],
+            "skill":["적응형웹","html","css","jQuery","자체CMS"],
             "date":"2017/07~2017/09"
         },
         {
             "id": "ssangyong2",
             "title": "쌍용자동차 쇼룸 - 7종+",
-            "skill":["html","css","jQuery"],
+            "skill":["적응형웹","html","css","jQuery","자체CMS"],
             "date":"2017/04~2018/01"
         }
     ]

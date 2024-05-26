@@ -14,7 +14,7 @@
             "title": "코튼시드 - 롯데NFT마켓",
             "skill":["반응형웹","react","next.js","styled-components","skeleton UI"],
             "mainColor":"#8424ea",
-            "date":"2022/08~2022/03",
+            "date":"2022/08~2023/03",
             "pageLink":"https://dykoo0056-lotte.netlify.app/pagemap",
             "info":["next.js 프로젝트 세팅", "재사용성 고려한 react 컴포넌트 퍼블리싱", "Skeleton UI 구현", "Toast Popup &amp; Modal Custom 구현 및 컴포넌트 관리"]
         },

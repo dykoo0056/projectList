@@ -192,6 +192,12 @@
     ],
     "sub" : [
         {
+            "id": "jbb",
+            "title": "전북은행 마이데이터 운영",
+            "skill":["react, styled-components, jex"],
+            "date":"2024/08~2024/12"
+        },
+        {
             "id": "spc",
             "title": "SPC매거진 운영",
             "skill":["wordpress"],
